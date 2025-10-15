@@ -1,5 +1,6 @@
 # Astro Fakestore
 
+new line 
 We would like to apologize if you were kept awake by the fact that we created a Fake Store site (recap exercise) which heavily depended on client-side javascript.
 
 Since then, we've learned a lot of new things in the course, and we would like to make it up to you by creating a new version of the Fake Store site, but this time with Astro!
